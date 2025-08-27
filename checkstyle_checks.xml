@@ -194,6 +194,7 @@
       <property name="influenceFormat" value="1"/>
     </module>
   </module>
+</module>
 <module name="LineLength">
     <property name="fileExtensions" value="java"/>
     <property name="max" value="100"/>
@@ -208,5 +209,3 @@
       <property name="lineWrappingIndentation" value="4"/>
       <property name="arrayInitIndent" value="2"/>
     </module>
-</module>
-
