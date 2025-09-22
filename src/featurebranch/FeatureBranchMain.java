@@ -1,6 +1,6 @@
 package featurebranch;
 
-public class FeatureBranchMain {
-	int value = 10;
+public class FeatureBranchMain{
+	int value =	10;
 }
  
