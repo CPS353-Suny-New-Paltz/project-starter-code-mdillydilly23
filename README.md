@@ -1,3 +1,1 @@
-# Software Engineering Project Starter Code
-
-This repo will start you off with an initial configuration that you'll modify as part of Checkpoint 1. As part of the modifications, you'll eventually delete the contents of this README and replace it with documentation for your project.
+For my compute engine the computation I have picked is in relation to market analysis and investment strategies, and I have decided to do a Monte Carlo simulation for portfolio returns.  My Monte Carlo simulation will have a single integer input n as the number of simulated days/trials/random scenarios to approximate investment returns.  The expected output will be the expected portfolio return and standard deviation.
